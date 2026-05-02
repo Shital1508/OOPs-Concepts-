@@ -6,7 +6,7 @@ public final class  Student {
 	
 	void login()
 	{
-		System.out.println("login");
+		System.out.println("logins");
 	}
 //	 static String collegeName;
 	 
